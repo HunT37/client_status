@@ -1,0 +1,1405 @@
+{
+	"next_offset":100,
+	"records":[
+	 {
+	   "kontakt_id": 1,
+	   "klient_id": 181,
+	   "pracownik_id": 107,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-09-24 03:38:31"
+	 },
+	 {
+	   "kontakt_id": 2,
+	   "klient_id": 72,
+	   "pracownik_id": 10,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-09-23 09:32:38"
+	 },
+	 {
+	   "kontakt_id": 3,
+	   "klient_id": 277,
+	   "pracownik_id": 119,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-09-22 07:06:16"
+	 },
+	 {
+	   "kontakt_id": 4,
+	   "klient_id": 36,
+	   "pracownik_id": 118,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-09-21 04:39:57"
+	 },
+	 {
+	   "kontakt_id": 5,
+	   "klient_id": 33,
+	   "pracownik_id": 161,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-09-20 04:12:12"
+	 },
+	 {
+	   "kontakt_id": 6,
+	   "klient_id": 244,
+	   "pracownik_id": 13,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-09-19 02:26:30"
+	 },
+	 {
+	   "kontakt_id": 7,
+	   "klient_id": 346,
+	   "pracownik_id": 255,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-09-18 02:30:35"
+	 },
+	 {
+	   "kontakt_id": 8,
+	   "klient_id": 128,
+	   "pracownik_id": 52,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-09-17 06:20:13"
+	 },
+	 {
+	   "kontakt_id": 9,
+	   "klient_id": 33,
+	   "pracownik_id": 188,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-09-16 08:58:02"
+	 },
+	 {
+	   "kontakt_id": 10,
+	   "klient_id": 352,
+	   "pracownik_id": 324,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-09-15 08:18:40"
+	 },
+	 {
+	   "kontakt_id": 11,
+	   "klient_id": 334,
+	   "pracownik_id": 373,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-09-14 04:27:40"
+	 },
+	 {
+	   "kontakt_id": 12,
+	   "klient_id": 2,
+	   "pracownik_id": 40,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-09-13 08:44:40"
+	 },
+	 {
+	   "kontakt_id": 13,
+	   "klient_id": 33,
+	   "pracownik_id": 252,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-09-12 03:46:16"
+	 },
+	 {
+	   "kontakt_id": 14,
+	   "klient_id": 366,
+	   "pracownik_id": 78,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-09-11 04:31:22"
+	 },
+	 {
+	   "kontakt_id": 15,
+	   "klient_id": 184,
+	   "pracownik_id": 289,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-09-10 06:08:01"
+	 },
+	 {
+	   "kontakt_id": 16,
+	   "klient_id": 184,
+	   "pracownik_id": 124,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-09-09 05:45:56"
+	 },
+	 {
+	   "kontakt_id": 17,
+	   "klient_id": 102,
+	   "pracownik_id": 215,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-09-08 07:09:30"
+	 },
+	 {
+	   "kontakt_id": 18,
+	   "klient_id": 140,
+	   "pracownik_id": 196,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-09-07 08:09:18"
+	 },
+	 {
+	   "kontakt_id": 19,
+	   "klient_id": 315,
+	   "pracownik_id": 242,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-09-06 05:13:40"
+	 },
+	 {
+	   "kontakt_id": 20,
+	   "klient_id": 268,
+	   "pracownik_id": 351,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-09-05 07:41:40"
+	 },
+	 {
+	   "kontakt_id": 21,
+	   "klient_id": 89,
+	   "pracownik_id": 232,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-09-04 05:32:05"
+	 },
+	 {
+	   "kontakt_id": 22,
+	   "klient_id": 394,
+	   "pracownik_id": 261,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-09-03 03:03:52"
+	 },
+	 {
+	   "kontakt_id": 23,
+	   "klient_id": 311,
+	   "pracownik_id": 337,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-09-02 09:26:49"
+	 },
+	 {
+	   "kontakt_id": 24,
+	   "klient_id": 399,
+	   "pracownik_id": 207,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-09-01 09:18:45"
+	 },
+	 {
+	   "kontakt_id": 25,
+	   "klient_id": 34,
+	   "pracownik_id": 262,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-08-31 04:47:17"
+	 },
+	 {
+	   "kontakt_id": 26,
+	   "klient_id": 218,
+	   "pracownik_id": 46,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-08-30 02:09:02"
+	 },
+	 {
+	   "kontakt_id": 27,
+	   "klient_id": 383,
+	   "pracownik_id": 358,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-08-29 09:05:23"
+	 },
+	 {
+	   "kontakt_id": 28,
+	   "klient_id": 376,
+	   "pracownik_id": 118,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-08-28 09:36:10"
+	 },
+	 {
+	   "kontakt_id": 29,
+	   "klient_id": 34,
+	   "pracownik_id": 68,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-08-27 07:20:51"
+	 },
+	 {
+	   "kontakt_id": 30,
+	   "klient_id": 398,
+	   "pracownik_id": 74,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-08-26 04:31:07"
+	 },
+	 {
+	   "kontakt_id": 31,
+	   "klient_id": 192,
+	   "pracownik_id": 293,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-08-25 02:01:12"
+	 },
+	 {
+	   "kontakt_id": 32,
+	   "klient_id": 363,
+	   "pracownik_id": 139,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-08-24 06:03:15"
+	 },
+	 {
+	   "kontakt_id": 33,
+	   "klient_id": 34,
+	   "pracownik_id": 146,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-08-23 06:34:59"
+	 },
+	 {
+	   "kontakt_id": 34,
+	   "klient_id": 279,
+	   "pracownik_id": 333,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-08-22 04:00:41"
+	 },
+	 {
+	   "kontakt_id": 35,
+	   "klient_id": 184,
+	   "pracownik_id": 158,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-08-21 08:44:10"
+	 },
+	 {
+	   "kontakt_id": 36,
+	   "klient_id": 184,
+	   "pracownik_id": 384,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-08-20 09:28:45"
+	 },
+	 {
+	   "kontakt_id": 37,
+	   "klient_id": 361,
+	   "pracownik_id": 23,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-08-19 02:50:58"
+	 },
+	 {
+	   "kontakt_id": 38,
+	   "klient_id": 288,
+	   "pracownik_id": 361,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-08-18 04:41:04"
+	 },
+	 {
+	   "kontakt_id": 39,
+	   "klient_id": 357,
+	   "pracownik_id": 336,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-08-17 04:51:04"
+	 },
+	 {
+	   "kontakt_id": 40,
+	   "klient_id": 67,
+	   "pracownik_id": 348,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-08-16 04:50:03"
+	 },
+	 {
+	   "kontakt_id": 41,
+	   "klient_id": 226,
+	   "pracownik_id": 117,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-08-15 08:00:46"
+	 },
+	 {
+	   "kontakt_id": 42,
+	   "klient_id": 168,
+	   "pracownik_id": 328,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-08-14 05:00:22"
+	 },
+	 {
+	   "kontakt_id": 43,
+	   "klient_id": 305,
+	   "pracownik_id": 283,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-08-13 04:56:12"
+	 },
+	 {
+	   "kontakt_id": 44,
+	   "klient_id": 382,
+	   "pracownik_id": 189,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-08-12 07:43:54"
+	 },
+	 {
+	   "kontakt_id": 45,
+	   "klient_id": 35,
+	   "pracownik_id": 179,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-08-11 09:20:49"
+	 },
+	 {
+	   "kontakt_id": 46,
+	   "klient_id": 60,
+	   "pracownik_id": 224,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-08-10 02:51:49"
+	 },
+	 {
+	   "kontakt_id": 47,
+	   "klient_id": 229,
+	   "pracownik_id": 114,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-08-09 06:54:54"
+	 },
+	 {
+	   "kontakt_id": 48,
+	   "klient_id": 10,
+	   "pracownik_id": 246,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-08-08 08:17:15"
+	 },
+	 {
+	   "kontakt_id": 49,
+	   "klient_id": 354,
+	   "pracownik_id": 328,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-08-07 03:06:51"
+	 },
+	 {
+	   "kontakt_id": 50,
+	   "klient_id": 294,
+	   "pracownik_id": 139,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-08-06 08:00:53"
+	 },
+	 {
+	   "kontakt_id": 51,
+	   "klient_id": 34,
+	   "pracownik_id": 251,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-08-05 02:12:43"
+	 },
+	 {
+	   "kontakt_id": 52,
+	   "klient_id": 309,
+	   "pracownik_id": 391,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-08-04 04:13:52"
+	 },
+	 {
+	   "kontakt_id": 53,
+	   "klient_id": 57,
+	   "pracownik_id": 316,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-08-03 02:34:42"
+	 },
+	 {
+	   "kontakt_id": 54,
+	   "klient_id": 252,
+	   "pracownik_id": 293,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-08-02 02:43:02"
+	 },
+	 {
+	   "kontakt_id": 55,
+	   "klient_id": 34,
+	   "pracownik_id": 174,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-08-01 06:26:06"
+	 },
+	 {
+	   "kontakt_id": 56,
+	   "klient_id": 219,
+	   "pracownik_id": 288,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-07-31 07:37:08"
+	 },
+	 {
+	   "kontakt_id": 57,
+	   "klient_id": 248,
+	   "pracownik_id": 104,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-07-30 03:00:58"
+	 },
+	 {
+	   "kontakt_id": 58,
+	   "klient_id": 166,
+	   "pracownik_id": 391,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-07-29 05:46:35"
+	 },
+	 {
+	   "kontakt_id": 59,
+	   "klient_id": 34,
+	   "pracownik_id": 32,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-07-28 02:24:46"
+	 },
+	 {
+	   "kontakt_id": 60,
+	   "klient_id": 70,
+	   "pracownik_id": 359,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-07-27 04:29:02"
+	 },
+	 {
+	   "kontakt_id": 61,
+	   "klient_id": 184,
+	   "pracownik_id": 55,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-07-26 03:27:56"
+	 },
+	 {
+	   "kontakt_id": 62,
+	   "klient_id": 184,
+	   "pracownik_id": 187,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-07-25 09:34:21"
+	 },
+	 {
+	   "kontakt_id": 63,
+	   "klient_id": 341,
+	   "pracownik_id": 358,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-07-24 02:36:13"
+	 },
+	 {
+	   "kontakt_id": 64,
+	   "klient_id": 204,
+	   "pracownik_id": 134,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-07-23 07:04:01"
+	 },
+	 {
+	   "kontakt_id": 65,
+	   "klient_id": 160,
+	   "pracownik_id": 142,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-07-22 02:58:23"
+	 },
+	 {
+	   "kontakt_id": 66,
+	   "klient_id": 372,
+	   "pracownik_id": 250,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-07-21 04:45:50"
+	 },
+	 {
+	   "kontakt_id": 67,
+	   "klient_id": 236,
+	   "pracownik_id": 257,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-07-20 06:17:55"
+	 },
+	 {
+	   "kontakt_id": 68,
+	   "klient_id": 251,
+	   "pracownik_id": 57,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-07-19 05:54:31"
+	 },
+	 {
+	   "kontakt_id": 69,
+	   "klient_id": 35,
+	   "pracownik_id": 13,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-07-18 03:26:25"
+	 },
+	 {
+	   "kontakt_id": 70,
+	   "klient_id": 280,
+	   "pracownik_id": 102,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-07-17 06:58:39"
+	 },
+	 {
+	   "kontakt_id": 71,
+	   "klient_id": 35,
+	   "pracownik_id": 354,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-07-16 07:09:39"
+	 },
+	 {
+	   "kontakt_id": 72,
+	   "klient_id": 59,
+	   "pracownik_id": 297,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-07-15 04:31:52"
+	 },
+	 {
+	   "kontakt_id": 73,
+	   "klient_id": 14,
+	   "pracownik_id": 51,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-07-14 06:01:47"
+	 },
+	 {
+	   "kontakt_id": 74,
+	   "klient_id": 153,
+	   "pracownik_id": 188,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-07-13 08:46:29"
+	 },
+	 {
+	   "kontakt_id": 75,
+	   "klient_id": 35,
+	   "pracownik_id": 341,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-07-12 05:32:09"
+	 },
+	 {
+	   "kontakt_id": 76,
+	   "klient_id": 241,
+	   "pracownik_id": 121,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-07-11 02:12:43"
+	 },
+	 {
+	   "kontakt_id": 77,
+	   "klient_id": 38,
+	   "pracownik_id": 68,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-07-10 06:03:51"
+	 },
+	 {
+	   "kontakt_id": 78,
+	   "klient_id": 282,
+	   "pracownik_id": 173,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-07-09 06:31:48"
+	 },
+	 {
+	   "kontakt_id": 79,
+	   "klient_id": 35,
+	   "pracownik_id": 112,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-07-08 06:56:52"
+	 },
+	 {
+	   "kontakt_id": 80,
+	   "klient_id": 300,
+	   "pracownik_id": 331,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-07-07 04:35:33"
+	 },
+	 {
+	   "kontakt_id": 81,
+	   "klient_id": 184,
+	   "pracownik_id": 175,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-07-06 01:55:08"
+	 },
+	 {
+	   "kontakt_id": 82,
+	   "klient_id": 184,
+	   "pracownik_id": 368,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-07-05 02:36:07"
+	 },
+	 {
+	   "kontakt_id": 83,
+	   "klient_id": 340,
+	   "pracownik_id": 239,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-07-04 07:22:02"
+	 },
+	 {
+	   "kontakt_id": 84,
+	   "klient_id": 125,
+	   "pracownik_id": 248,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-07-03 05:28:10"
+	 },
+	 {
+	   "kontakt_id": 85,
+	   "klient_id": 203,
+	   "pracownik_id": 95,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-07-02 03:31:40"
+	 },
+	 {
+	   "kontakt_id": 86,
+	   "klient_id": 71,
+	   "pracownik_id": 133,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-07-01 06:24:00"
+	 },
+	 {
+	   "kontakt_id": 87,
+	   "klient_id": 356,
+	   "pracownik_id": 316,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-06-30 02:35:02"
+	 },
+	 {
+	   "kontakt_id": 88,
+	   "klient_id": 253,
+	   "pracownik_id": 329,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-06-29 06:04:19"
+	 },
+	 {
+	   "kontakt_id": 89,
+	   "klient_id": 259,
+	   "pracownik_id": 319,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-06-28 02:17:26"
+	 },
+	 {
+	   "kontakt_id": 90,
+	   "klient_id": 331,
+	   "pracownik_id": 48,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-06-27 08:30:52"
+	 },
+	 {
+	   "kontakt_id": 91,
+	   "klient_id": 36,
+	   "pracownik_id": 110,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-06-26 02:33:04"
+	 },
+	 {
+	   "kontakt_id": 92,
+	   "klient_id": 105,
+	   "pracownik_id": 313,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-06-25 03:23:41"
+	 },
+	 {
+	   "kontakt_id": 93,
+	   "klient_id": 106,
+	   "pracownik_id": 260,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-06-24 07:26:25"
+	 },
+	 {
+	   "kontakt_id": 94,
+	   "klient_id": 125,
+	   "pracownik_id": 326,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-06-23 09:01:59"
+	 },
+	 {
+	   "kontakt_id": 95,
+	   "klient_id": 249,
+	   "pracownik_id": 24,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-06-22 05:30:39"
+	 },
+	 {
+	   "kontakt_id": 96,
+	   "klient_id": 35,
+	   "pracownik_id": 187,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-06-21 08:34:24"
+	 },
+	 {
+	   "kontakt_id": 97,
+	   "klient_id": 35,
+	   "pracownik_id": 102,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-06-20 07:44:39"
+	 },
+	 {
+	   "kontakt_id": 98,
+	   "klient_id": 112,
+	   "pracownik_id": 281,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-06-19 03:40:04"
+	 },
+	 {
+	   "kontakt_id": 99,
+	   "klient_id": 340,
+	   "pracownik_id": 237,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-06-18 08:06:21"
+	 },
+	 {
+	   "kontakt_id": 100,
+	   "klient_id": 238,
+	   "pracownik_id": 330,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-06-17 03:36:54"
+	 },
+	 {
+	   "kontakt_id": 101,
+	   "klient_id": 35,
+	   "pracownik_id": 41,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-06-16 02:24:51"
+	 },
+	 {
+	   "kontakt_id": 102,
+	   "klient_id": 317,
+	   "pracownik_id": 0,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-06-15 05:59:41"
+	 },
+	 {
+	   "kontakt_id": 103,
+	   "klient_id": 119,
+	   "pracownik_id": 275,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-06-14 05:14:51"
+	 },
+	 {
+	   "kontakt_id": 104,
+	   "klient_id": 129,
+	   "pracownik_id": 8,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-06-13 06:07:23"
+	 },
+	 {
+	   "kontakt_id": 105,
+	   "klient_id": 35,
+	   "pracownik_id": 168,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-06-12 05:15:35"
+	 },
+	 {
+	   "kontakt_id": 106,
+	   "klient_id": 209,
+	   "pracownik_id": 313,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-06-11 05:22:16"
+	 },
+	 {
+	   "kontakt_id": 107,
+	   "klient_id": 184,
+	   "pracownik_id": 42,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-06-10 03:19:15"
+	 },
+	 {
+	   "kontakt_id": 108,
+	   "klient_id": 184,
+	   "pracownik_id": 263,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-06-09 05:28:37"
+	 },
+	 {
+	   "kontakt_id": 109,
+	   "klient_id": 287,
+	   "pracownik_id": 65,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-06-08 06:53:05"
+	 },
+	 {
+	   "kontakt_id": 110,
+	   "klient_id": 91,
+	   "pracownik_id": 125,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-06-07 01:49:06"
+	 },
+	 {
+	   "kontakt_id": 111,
+	   "klient_id": 271,
+	   "pracownik_id": 159,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-06-06 09:00:07"
+	 },
+	 {
+	   "kontakt_id": 112,
+	   "klient_id": 254,
+	   "pracownik_id": 305,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-06-05 03:20:56"
+	 },
+	 {
+	   "kontakt_id": 113,
+	   "klient_id": 69,
+	   "pracownik_id": 385,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-06-04 08:52:26"
+	 },
+	 {
+	   "kontakt_id": 114,
+	   "klient_id": 124,
+	   "pracownik_id": 155,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-06-03 04:55:51"
+	 },
+	 {
+	   "kontakt_id": 115,
+	   "klient_id": 315,
+	   "pracownik_id": 362,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-06-02 05:56:50"
+	 },
+	 {
+	   "kontakt_id": 116,
+	   "klient_id": 220,
+	   "pracownik_id": 5,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-06-01 05:17:20"
+	 },
+	 {
+	   "kontakt_id": 117,
+	   "klient_id": 36,
+	   "pracownik_id": 114,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-05-31 07:43:49"
+	 },
+	 {
+	   "kontakt_id": 118,
+	   "klient_id": 235,
+	   "pracownik_id": 77,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-05-30 05:33:29"
+	 },
+	 {
+	   "kontakt_id": 119,
+	   "klient_id": 345,
+	   "pracownik_id": 357,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-05-29 08:09:35"
+	 },
+	 {
+	   "kontakt_id": 120,
+	   "klient_id": 308,
+	   "pracownik_id": 361,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-05-28 07:13:13"
+	 },
+	 {
+	   "kontakt_id": 121,
+	   "klient_id": 36,
+	   "pracownik_id": 41,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-05-27 08:35:55"
+	 },
+	 {
+	   "kontakt_id": 122,
+	   "klient_id": 153,
+	   "pracownik_id": 334,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-05-26 07:38:53"
+	 },
+	 {
+	   "kontakt_id": 123,
+	   "klient_id": 65,
+	   "pracownik_id": 33,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-05-25 09:27:55"
+	 },
+	 {
+	   "kontakt_id": 124,
+	   "klient_id": 2,
+	   "pracownik_id": 346,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-05-24 05:58:11"
+	 },
+	 {
+	   "kontakt_id": 125,
+	   "klient_id": 36,
+	   "pracownik_id": 7,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-05-23 08:05:09"
+	 },
+	 {
+	   "kontakt_id": 126,
+	   "klient_id": 3,
+	   "pracownik_id": 16,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-05-22 02:08:04"
+	 },
+	 {
+	   "kontakt_id": 127,
+	   "klient_id": 184,
+	   "pracownik_id": 52,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-05-21 03:46:32"
+	 },
+	 {
+	   "kontakt_id": 128,
+	   "klient_id": 184,
+	   "pracownik_id": 28,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-05-20 08:00:36"
+	 },
+	 {
+	   "kontakt_id": 129,
+	   "klient_id": 61,
+	   "pracownik_id": 390,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-05-19 07:11:48"
+	 },
+	 {
+	   "kontakt_id": 130,
+	   "klient_id": 322,
+	   "pracownik_id": 297,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-05-18 03:57:40"
+	 },
+	 {
+	   "kontakt_id": 131,
+	   "klient_id": 89,
+	   "pracownik_id": 324,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-05-17 02:47:17"
+	 },
+	 {
+	   "kontakt_id": 132,
+	   "klient_id": 128,
+	   "pracownik_id": 232,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-05-16 02:57:07"
+	 },
+	 {
+	   "kontakt_id": 133,
+	   "klient_id": 363,
+	   "pracownik_id": 108,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-05-15 05:01:41"
+	 },
+	 {
+	   "kontakt_id": 134,
+	   "klient_id": 261,
+	   "pracownik_id": 115,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-05-14 07:50:03"
+	 },
+	 {
+	   "kontakt_id": 135,
+	   "klient_id": 76,
+	   "pracownik_id": 14,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-05-13 07:18:19"
+	 },
+	 {
+	   "kontakt_id": 136,
+	   "klient_id": 114,
+	   "pracownik_id": 304,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-05-12 08:01:00"
+	 },
+	 {
+	   "kontakt_id": 137,
+	   "klient_id": 37,
+	   "pracownik_id": 354,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-05-11 04:11:46"
+	 },
+	 {
+	   "kontakt_id": 138,
+	   "klient_id": 272,
+	   "pracownik_id": 260,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-05-10 03:45:57"
+	 },
+	 {
+	   "kontakt_id": 139,
+	   "klient_id": 334,
+	   "pracownik_id": 94,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-05-09 02:03:17"
+	 },
+	 {
+	   "kontakt_id": 140,
+	   "klient_id": 241,
+	   "pracownik_id": 139,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-05-08 04:18:45"
+	 },
+	 {
+	   "kontakt_id": 141,
+	   "klient_id": 352,
+	   "pracownik_id": 351,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-05-07 02:10:52"
+	 },
+	 {
+	   "kontakt_id": 142,
+	   "klient_id": 76,
+	   "pracownik_id": 263,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-05-06 09:32:15"
+	 },
+	 {
+	   "kontakt_id": 143,
+	   "klient_id": 36,
+	   "pracownik_id": 351,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-05-05 02:49:07"
+	 },
+	 {
+	   "kontakt_id": 144,
+	   "klient_id": 187,
+	   "pracownik_id": 177,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-05-04 06:41:39"
+	 },
+	 {
+	   "kontakt_id": 145,
+	   "klient_id": 144,
+	   "pracownik_id": 313,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-05-03 06:06:02"
+	 },
+	 {
+	   "kontakt_id": 146,
+	   "klient_id": 51,
+	   "pracownik_id": 204,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-05-02 01:53:05"
+	 },
+	 {
+	   "kontakt_id": 147,
+	   "klient_id": 36,
+	   "pracownik_id": 198,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-05-01 02:09:47"
+	 },
+	 {
+	   "kontakt_id": 148,
+	   "klient_id": 381,
+	   "pracownik_id": 266,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-04-30 06:46:36"
+	 },
+	 {
+	   "kontakt_id": 149,
+	   "klient_id": 34,
+	   "pracownik_id": 359,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-04-29 09:38:44"
+	 },
+	 {
+	   "kontakt_id": 150,
+	   "klient_id": 25,
+	   "pracownik_id": 388,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-04-28 08:26:07"
+	 },
+	 {
+	   "kontakt_id": 151,
+	   "klient_id": 36,
+	   "pracownik_id": 341,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-04-27 02:26:13"
+	 },
+	 {
+	   "kontakt_id": 152,
+	   "klient_id": 139,
+	   "pracownik_id": 79,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-04-26 06:18:17"
+	 },
+	 {
+	   "kontakt_id": 153,
+	   "klient_id": 184,
+	   "pracownik_id": 214,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-04-25 07:56:22"
+	 },
+	 {
+	   "kontakt_id": 154,
+	   "klient_id": 184,
+	   "pracownik_id": 190,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-04-24 04:37:21"
+	 },
+	 {
+	   "kontakt_id": 155,
+	   "klient_id": 107,
+	   "pracownik_id": 215,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-04-23 09:13:27"
+	 },
+	 {
+	   "kontakt_id": 156,
+	   "klient_id": 344,
+	   "pracownik_id": 377,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-04-22 08:58:30"
+	 },
+	 {
+	   "kontakt_id": 157,
+	   "klient_id": 165,
+	   "pracownik_id": 123,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-04-21 07:14:41"
+	 },
+	 {
+	   "kontakt_id": 158,
+	   "klient_id": 366,
+	   "pracownik_id": 40,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-04-20 08:31:40"
+	 },
+	 {
+	   "kontakt_id": 159,
+	   "klient_id": 284,
+	   "pracownik_id": 241,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-04-19 04:55:26"
+	 },
+	 {
+	   "kontakt_id": 160,
+	   "klient_id": 136,
+	   "pracownik_id": 34,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-04-18 06:02:56"
+	 },
+	 {
+	   "kontakt_id": 161,
+	   "klient_id": 192,
+	   "pracownik_id": 322,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-04-17 08:25:14"
+	 },
+	 {
+	   "kontakt_id": 162,
+	   "klient_id": 170,
+	   "pracownik_id": 286,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-04-16 06:05:26"
+	 },
+	 {
+	   "kontakt_id": 163,
+	   "klient_id": 37,
+	   "pracownik_id": 235,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-04-15 04:59:35"
+	 },
+	 {
+	   "kontakt_id": 164,
+	   "klient_id": 166,
+	   "pracownik_id": 184,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-04-14 02:09:12"
+	 },
+	 {
+	   "kontakt_id": 165,
+	   "klient_id": 120,
+	   "pracownik_id": 27,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-04-13 05:25:41"
+	 },
+	 {
+	   "kontakt_id": 166,
+	   "klient_id": 396,
+	   "pracownik_id": 366,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-04-12 08:55:33"
+	 },
+	 {
+	   "kontakt_id": 167,
+	   "klient_id": 37,
+	   "pracownik_id": 268,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-04-11 06:42:21"
+	 },
+	 {
+	   "kontakt_id": 168,
+	   "klient_id": 316,
+	   "pracownik_id": 244,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-04-10 09:07:52"
+	 },
+	 {
+	   "kontakt_id": 169,
+	   "klient_id": 134,
+	   "pracownik_id": 237,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-04-09 02:30:09"
+	 },
+	 {
+	   "kontakt_id": 170,
+	   "klient_id": 91,
+	   "pracownik_id": 111,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-04-08 04:03:37"
+	 },
+	 {
+	   "kontakt_id": 171,
+	   "klient_id": 37,
+	   "pracownik_id": 166,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-04-07 09:17:02"
+	 },
+	 {
+	   "kontakt_id": 172,
+	   "klient_id": 324,
+	   "pracownik_id": 110,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-04-06 06:11:41"
+	 },
+	 {
+	   "kontakt_id": 173,
+	   "klient_id": 184,
+	   "pracownik_id": 294,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-04-05 06:22:14"
+	 },
+	 {
+	   "kontakt_id": 174,
+	   "klient_id": 184,
+	   "pracownik_id": 133,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-04-04 04:51:33"
+	 },
+	 {
+	   "kontakt_id": 175,
+	   "klient_id": 318,
+	   "pracownik_id": 65,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-04-03 09:29:09"
+	 },
+	 {
+	   "kontakt_id": 176,
+	   "klient_id": 270,
+	   "pracownik_id": 390,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-04-02 03:47:20"
+	 },
+	 {
+	   "kontakt_id": 177,
+	   "klient_id": 184,
+	   "pracownik_id": 312,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-04-01 01:54:40"
+	 },
+	 {
+	   "kontakt_id": 178,
+	   "klient_id": 184,
+	   "pracownik_id": 57,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-03-31 02:58:12"
+	 },
+	 {
+	   "kontakt_id": 179,
+	   "klient_id": 252,
+	   "pracownik_id": 307,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-03-30 07:40:09"
+	 },
+	 {
+	   "kontakt_id": 180,
+	   "klient_id": 193,
+	   "pracownik_id": 321,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-03-29 05:28:48"
+	 },
+	 {
+	   "kontakt_id": 181,
+	   "klient_id": 184,
+	   "pracownik_id": 30,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-03-28 03:53:53"
+	 },
+	 {
+	   "kontakt_id": 182,
+	   "klient_id": 184,
+	   "pracownik_id": 310,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-03-27 05:55:56"
+	 },
+	 {
+	   "kontakt_id": 183,
+	   "klient_id": 388,
+	   "pracownik_id": 49,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-03-26 08:33:12"
+	 },
+	 {
+	   "kontakt_id": 184,
+	   "klient_id": 350,
+	   "pracownik_id": 13,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-03-25 03:42:17"
+	 },
+	 {
+	   "kontakt_id": 185,
+	   "klient_id": 184,
+	   "pracownik_id": 87,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-03-24 09:00:31"
+	 },
+	 {
+	   "kontakt_id": 186,
+	   "klient_id": 152,
+	   "pracownik_id": 8,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-03-23 05:45:16"
+	 },
+	 {
+	   "kontakt_id": 187,
+	   "klient_id": 184,
+	   "pracownik_id": 241,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-03-22 02:49:20"
+	 },
+	 {
+	   "kontakt_id": 188,
+	   "klient_id": 184,
+	   "pracownik_id": 64,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-03-21 03:13:57"
+	 },
+	 {
+	   "kontakt_id": 189,
+	   "klient_id": 376,
+	   "pracownik_id": 131,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-03-20 04:13:19"
+	 },
+	 {
+	   "kontakt_id": 190,
+	   "klient_id": 376,
+	   "pracownik_id": 282,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-03-19 02:58:38"
+	 },
+	 {
+	   "kontakt_id": 191,
+	   "klient_id": 184,
+	   "pracownik_id": 133,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-03-18 09:08:54"
+	 },
+	 {
+	   "kontakt_id": 192,
+	   "klient_id": 184,
+	   "pracownik_id": 27,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-03-17 06:14:02"
+	 },
+	 {
+	   "kontakt_id": 193,
+	   "klient_id": 191,
+	   "pracownik_id": 76,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-03-16 04:25:43"
+	 },
+	 {
+	   "kontakt_id": 194,
+	   "klient_id": 47,
+	   "pracownik_id": 216,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-03-15 05:28:45"
+	 },
+	 {
+	   "kontakt_id": 195,
+	   "klient_id": 236,
+	   "pracownik_id": 395,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-03-14 06:43:01"
+	 },
+	 {
+	   "kontakt_id": 196,
+	   "klient_id": 184,
+	   "pracownik_id": 206,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-03-13 02:15:59"
+	 },
+	 {
+	   "kontakt_id": 197,
+	   "klient_id": 184,
+	   "pracownik_id": 54,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-03-12 08:37:58"
+	 },
+	 {
+	   "kontakt_id": 198,
+	   "klient_id": 243,
+	   "pracownik_id": 0,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-03-11 02:29:09"
+	 },
+	 {
+	   "kontakt_id": 199,
+	   "klient_id": 184,
+	   "pracownik_id": 391,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-03-10 04:53:01"
+	 },
+	 {
+	   "kontakt_id": 200,
+	   "klient_id": 184,
+	   "pracownik_id": 9,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-03-09 05:27:31"
+	 }
+	]
+}
